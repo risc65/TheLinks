@@ -34,6 +34,8 @@
 ## Reference
 <!-- Docs, wikis, and resources you look up regularly -->
 
+- [Github Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Github Basic writing and formatting syntax
+
 
 ## Occasional
 <!-- Useful but not everyday links -->
